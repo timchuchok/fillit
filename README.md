@@ -7,5 +7,6 @@ Fast start:
 https://github.com/timchuchok/fillit.git
 cd fillit
 make
+./fillit maps/one_of_maps
 <code>
 </pre>
