@@ -53,3 +53,15 @@ A few examples of invalid descriptions of Tetriminos
 </pre>
 
 <h2>The smallest square</h2>
+  The goal of this project is to arrange the Tetriminos among themselves to make the
+smallest possible square, but in some cases, this square may have holes when some given
+pieces won’t fit perfectly with others.
+Each Tetrimino, even if presented on a 16 box grid, is only defined by its full boxes (his
+’#’). The 12 remaining Tetriminos will be ignored for the arrangement of Tetriminos
+among themselves.
+  The Tetriminos are ordered as they appear in the file. Among the different solutions
+possible to make the smallest square, only the solution where Tetriminos is placed on
+their most upper-left position, will be accepted/retained.
+Example :
+  If we consider the two following Tetriminos (the ’#’ are replaced by digits for understanding
+purposes) :
