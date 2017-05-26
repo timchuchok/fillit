@@ -51,3 +51,5 @@ A few examples of invalid descriptions of Tetriminos
 ....  #...  ....       ....  ##..  ####  ,,,,  ....
 </code>
 </pre>
+
+<h2>The smallest square</h2>
