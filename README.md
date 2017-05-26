@@ -31,3 +31,12 @@ a Tetriminos or a ’.’ if it’s empty.
 any of his 4 sides.
 
   A few examples of valid descriptions of Tetriminos :
+
+<pre>
+<code>
+....  ....  ####  ....  .##.  ....  .#..  ....  ....
+..##  ....  ....  ....  ..##  .##.  ###.  ##..  .##.
+..#.  ..##  ....  ##..  ....  ##..  ....  #...  ..#.
+..#.  ..##  ....  ##..  ....  ....  ....  #...  ..#.
+</code>
+</pre>
