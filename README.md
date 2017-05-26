@@ -14,7 +14,7 @@ make && make clean
 
 
 <H1>More Details</H1>
-Executable must take as parameter one (and only one) file which contains a
+<p>Executable must take as parameter one (and only one) file which contains a
 list of Tetriminos to arrange. This file has a very specific format : every Tetriminos
 description consists of 4 lines and each Tetriminos are separated by an empty line
 
