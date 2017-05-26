@@ -76,3 +76,23 @@ purposes) :
 1... AND  ..22
 1...      ..22
 <pre>
+The smallest square formed by those 2 pieces is 4 boxes wide, but there is many
+versions that you can see right below :
+<pre>
+a)   b)   c)   d)   e)   f)
+122. 1.22 1... 1... 1... 1...
+122. 1.22 122. 1.22 1... 1...
+1... 1... 122. 1.22 122. 1.22
+1... 1... 1... 1... 122. 1.22
+g)    h)  i)   j)   k)   l)
+.122 .1.. .1.. 221. ..1. ..1.
+.122 .122 .1.. 221. 221. ..1.
+.1.. .122 .122 ..1. 221. 221.
+.1.. .1.. .122 ..1. ..1. 221.
+m)   n)   o)   p)   q)   r)
+22.1 .221 ...1 ...1 ...1 ...1
+22.1 .221 22.1 .221 ...1 ...1
+...1 ...1 22.1 .221 22.1 .221
+...1 ...1 ...1 ...1 22.1 .221
+<pre>
+According to the rule above, the right solution is then a)
