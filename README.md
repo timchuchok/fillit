@@ -6,7 +6,7 @@ Fast start:
 <code>
 git clone https://github.com/timchuchok/fillit.git
 cd fillit
-make
+make && make clean
 ./fillit maps/one_of_maps
 <code>
 </pre>
