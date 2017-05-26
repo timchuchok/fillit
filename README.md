@@ -106,3 +106,50 @@ Tetriminos maximum.
 
 If the file contains at least one error, program display error on the standard
 output and will exit.
+
+Example :
+<pre>
+$> cat sample.fillit | cat -e
+....$
+##..$
+.#..$
+.#..$
+$
+....$
+####$
+....$
+....$
+$
+#...$
+###.$
+....$
+....$
+$
+....$
+##..$
+.##.$
+....$
+$> ./fillit sample.fillit | cat -e
+DDAA$
+CDDA$
+CCCA$
+BBBB$
+$>
+</pre>
+
+Another example :
+<pre>
+$> cat sample.fillit | cat -e
+....$
+....$
+####$
+....$
+$
+....$
+...$
+..##$
+..##$
+$> ./fillit sample.fillit | cat -e
+error$
+$>
+</pre>
