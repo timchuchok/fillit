@@ -1,5 +1,5 @@
 # fillit
-The goal of this project is to arrange the Tetriminos among themselves to make the smallest possible square.
+  The goal of this project is to arrange the Tetriminos among themselves to make the smallest possible square.
 
 Fast start: 
 
@@ -14,11 +14,11 @@ make && make clean
 
 
 <H1>More Details</H1>
-<p>Executable must take as parameter one (and only one) file which contains a
+  Executable must take as parameter one (and only one) file which contains a
 list of Tetriminos to arrange. This file has a very specific format : every Tetriminos
 description consists of 4 lines and each Tetriminos are separated by an empty line
 
-The description of a Tetriminos must respect the following rules :
+  The description of a Tetriminos must respect the following rules :
 
 • Precisely 4 lines of 4 characters followed by a new line.
 
@@ -30,4 +30,4 @@ a Tetriminos or a ’.’ if it’s empty.
 • Each block of a Tetriminos must be in contact with at least one other block on
 any of his 4 sides.
 
-A few examples of valid descriptions of Tetriminos :
+  A few examples of valid descriptions of Tetriminos :
