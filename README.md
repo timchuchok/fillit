@@ -4,7 +4,7 @@ The goal of this project is to arrange the Tetriminos among themselves to make t
 Fast start: 
 <pre>
 <code>
-https://github.com/timchuchok/fillit.git
+git clone https://github.com/timchuchok/fillit.git
 cd fillit
 make
 ./fillit maps/one_of_maps
